@@ -9,8 +9,10 @@ To run these scripts in jupyter notebook
     cd CSE4020
     jupyter notebook
     
-- requirements.txt will be added when the complexity gets increased
-- For now install 2 packages
+- `requirements.txt will be added when the complexity gets increased`
+- `For now install 2 packages`
+
+To install the packages
 
     pip3 install numpy
     pip3 install pandas
