@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.23)  1 MAR 2023 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.23)  27 MAR 2023 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -359,129 +359,88 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 93.
-<images/1.png, id=5, 959.585pt x 652.4375pt>
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+<images/1.png, id=5, 1445.4pt x 903.375pt>
 File: images/1.png Graphic file (type png)
 <use images/1.png>
-Package pdftex.def Info: images/1.png  used on input line 95.
-(pdftex.def)             Requested size: 575.75545pt x 391.46552pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
-
- []
-
-
-Overfull \hbox (120.51137pt too wide) in paragraph at lines 94--96
-[] 
- []
+Package pdftex.def Info: images/1.png  used on input line 108.
+(pdftex.def)             Requested size: 433.62335pt x 271.01459pt.
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/1.png>] (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-<images/2.png, id=22, 664.4825pt x 226.8475pt>
+s/1.png>] [2]
+<images/2.png, id=115, 1445.4pt x 903.375pt>
 File: images/2.png Graphic file (type png)
 <use images/2.png>
-Package pdftex.def Info: images/2.png  used on input line 121.
-(pdftex.def)             Requested size: 398.69257pt x 136.10954pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
- []
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-) [2 <./images/2.png>]
-<images/3.png, id=78, 914.41624pt x 651.43375pt>
-File: images/3.png Graphic file (type png)
-<use images/3.png>
-Package pdftex.def Info: images/3.png  used on input line 177.
-(pdftex.def)             Requested size: 365.76003pt x 260.56888pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--179
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--179
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--179
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--179
-
- []
-
-[3 <./images/3.png>] [4]
-<images/4.png, id=197, 975.645pt x 653.44125pt>
+Package pdftex.def Info: images/2.png  used on input line 211.
+(pdftex.def)             Requested size: 433.62335pt x 271.01459pt.
+ [3 <./images/2.png>]
+<images/4.png, id=162, 1445.4pt x 903.375pt>
 File: images/4.png Graphic file (type png)
 <use images/4.png>
-Package pdftex.def Info: images/4.png  used on input line 277.
-(pdftex.def)             Requested size: 487.8213pt x 326.71982pt.
-
-Overfull \hbox (47.57722pt too wide) in paragraph at lines 277--278
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
-
- []
-
-[5 <./images/4.png>]
-<images/5.png, id=236, 562.1pt x 159.59625pt>
+Package pdftex.def Info: images/4.png  used on input line 235.
+(pdftex.def)             Requested size: 433.62335pt x 271.01459pt.
+ [4 <./images/4.png>]
+<images/5.png, id=201, 1445.4pt x 903.375pt>
 File: images/5.png Graphic file (type png)
 <use images/5.png>
-Package pdftex.def Info: images/5.png  used on input line 318.
-(pdftex.def)             Requested size: 449.68062pt x 127.67715pt.
- [6 <./images/5.png>] (./document.aux) ) 
+Package pdftex.def Info: images/5.png  used on input line 331.
+(pdftex.def)             Requested size: 433.62335pt x 271.01459pt.
+<images/6.png, id=202, 1445.4pt x 903.375pt>
+File: images/6.png Graphic file (type png)
+<use images/6.png>
+Package pdftex.def Info: images/6.png  used on input line 332.
+(pdftex.def)             Requested size: 433.62335pt x 271.01459pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--333
+
+ []
+
+[5] [6 <./images/5.png> <./images/6.png>] (./document.aux) ) 
 Here is how much of TeX's memory you used:
- 12502 strings out of 478268
- 191451 string characters out of 5846347
- 1061931 words of memory out of 5000000
- 30369 multiletter control sequences out of 15000+600000
+ 12456 strings out of 478268
+ 190967 string characters out of 5846347
+ 1016653 words of memory out of 5000000
+ 30297 multiletter control sequences out of 15000+600000
  474010 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,240b,2012s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmtt8.pfb>
-Output written on document.pdf (6 pages, 636730 bytes).
+ 60i,8n,63p,240b,1913s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive
+/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/
+2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/20
+22/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2022/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2022/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on document.pdf (6 pages, 1301653 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 293 compressed objects within 3 object streams
- 209 named destinations out of 1000 (max. 500000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 329 compressed objects within 4 object streams
+ 237 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
